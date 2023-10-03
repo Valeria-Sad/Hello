@@ -1,1 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Croissant+One&display=swap');
+
+
+body {
+  /*background-color: lightslategray;*/
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   height: 90vh;
+   margin: 0;
+}
+
+
+p {
+  font-family: 'Croissant One', cursive;
+   font-size: 55px;
+   text-align: center;
+   color: #fff;
+   text-shadow: 15px 15px 45px brown, -15px -15px 45px thistle;
+   -webkit-text-stroke: 2px lightpink;
+   -webkit-text-fill-color: transparent;
+   letter-spacing: 10px;
+}
 
